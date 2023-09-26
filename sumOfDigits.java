@@ -20,7 +20,7 @@ public class sumOfDigits {
             sumOfnum = rem + sumOfnum;
             num = num / 10;
         }
-        System.out.print(sumOfnum);
+
         return sumOfnum;
     }
 
